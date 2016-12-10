@@ -1,0 +1,4 @@
+本推荐系统包含data,model,web_spider三个文件夹
+data文件夹包含数据库导出的json文件，和项目对网络爬虫数据的清洗代码
+model包含推荐系统主要算法：PMF,SVD,SVD++
+web_spider为大众点评网络爬虫，目的是收集大众点评的商店和客户数据，数据存放入mongodb数据库。
